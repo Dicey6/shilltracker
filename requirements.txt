@@ -1,0 +1,6 @@
+python-telegram-bot>=21.7,<23         # 21.7+ for copy-to-clipboard buttons
+telethon>=1.36,<2
+asyncpg>=0.29,<1
+aiohttp>=3.9,<4
+cryptography>=42
+solders>=0.21,<1
